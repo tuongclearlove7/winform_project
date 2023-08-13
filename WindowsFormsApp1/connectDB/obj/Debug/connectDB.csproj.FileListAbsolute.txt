@@ -1,0 +1,13 @@
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\WindowsFormsApp1\connectDB\bin\Debug\connectDB.exe.config
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\WindowsFormsApp1\connectDB\bin\Debug\connectDB.exe
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\WindowsFormsApp1\connectDB\bin\Debug\connectDB.pdb
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\WindowsFormsApp1\connectDB\obj\Debug\connectDB.Properties.Resources.resources
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\WindowsFormsApp1\connectDB\obj\Debug\connectDB.csproj.GenerateResource.cache
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\WindowsFormsApp1\connectDB\obj\Debug\connectDB.csproj.CoreCompileInputs.cache
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\WindowsFormsApp1\connectDB\obj\Debug\connectDB.exe
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\WindowsFormsApp1\connectDB\obj\Debug\connectDB.pdb
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\WindowsFormsApp1\connectDB\bin\Debug\DBsinhvien.mdf
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\WindowsFormsApp1\connectDB\bin\Debug\DBsinhvien_log.ldf
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\WindowsFormsApp1\connectDB\obj\Debug\connectDB.app_quanly_sinhvien.resources
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\WindowsFormsApp1\connectDB\obj\Debug\connectDB.form_login.resources
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\WindowsFormsApp1\connectDB\obj\Debug\connectDB.csproj.AssemblyReference.cache
