@@ -1,0 +1,16 @@
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\TrầnThếTường9157_đồ_án\TrầnThếTường9157_đồ_án\bin\Release\db.mdf
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\TrầnThếTường9157_đồ_án\TrầnThếTường9157_đồ_án\bin\Release\db_log.ldf
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\TrầnThếTường9157_đồ_án\TrầnThếTường9157_đồ_án\bin\Release\TrầnThếTường9157_đồ_án.exe.config
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\TrầnThếTường9157_đồ_án\TrầnThếTường9157_đồ_án\bin\Release\TrầnThếTường9157_đồ_án.exe
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\TrầnThếTường9157_đồ_án\TrầnThếTường9157_đồ_án\bin\Release\TrầnThếTường9157_đồ_án.pdb
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\TrầnThếTường9157_đồ_án\TrầnThếTường9157_đồ_án\obj\Release\TrầnThếTường9157_đồ_án.form_nguoichoi.resources
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\TrầnThếTường9157_đồ_án\TrầnThếTường9157_đồ_án\obj\Release\TrầnThếTường9157_đồ_án.formGame.resources
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\TrầnThếTường9157_đồ_án\TrầnThếTường9157_đồ_án\obj\Release\TrầnThếTường9157_đồ_án.formLogin.resources
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\TrầnThếTường9157_đồ_án\TrầnThếTường9157_đồ_án\obj\Release\TrầnThếTường9157_đồ_án.form_quanly.resources
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\TrầnThếTường9157_đồ_án\TrầnThếTường9157_đồ_án\obj\Release\TrầnThếTường9157_đồ_án.form_register.resources
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\TrầnThếTường9157_đồ_án\TrầnThếTường9157_đồ_án\obj\Release\TrầnThếTường9157_đồ_án.Properties.Resources.resources
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\TrầnThếTường9157_đồ_án\TrầnThếTường9157_đồ_án\obj\Release\TrầnThếTường9157_đồ_án.csproj.GenerateResource.cache
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\TrầnThếTường9157_đồ_án\TrầnThếTường9157_đồ_án\obj\Release\TrầnThếTường9157_đồ_án.csproj.CoreCompileInputs.cache
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\TrầnThếTường9157_đồ_án\TrầnThếTường9157_đồ_án\obj\Release\TrầnThếTường9157_đồ_án.exe
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\TrầnThếTường9157_đồ_án\TrầnThếTường9157_đồ_án\obj\Release\TrầnThếTường9157_đồ_án.pdb
+C:\Users\clearlove7\Documents\GitHub\ASP.net-project\TrầnThếTường9157_đồ_án\TrầnThếTường9157_đồ_án\obj\Release\TrầnThếTường9157_đồ_án.csprojAssemblyReference.cache
